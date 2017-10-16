@@ -1,3 +1,6 @@
 second file added to git
 
 no conflict
+
+added something independent
+
