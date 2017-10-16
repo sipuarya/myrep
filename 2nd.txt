@@ -1,1 +1,3 @@
 second file added to git
+
+no conflict
