@@ -3,4 +3,3 @@ second file added to git
 2nd commit
 
 commit from s2
-
