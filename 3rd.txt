@@ -4,8 +4,9 @@
 
 5th line added
 
-additoin
+3rd commit
 
-hey
+master addition
 
-conflictzone
+some addition
+
