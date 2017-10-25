@@ -2,4 +2,4 @@ second file added to git
 
 2nd commit
 
-commit from master
+commit from s2
