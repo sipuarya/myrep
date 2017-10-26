@@ -4,8 +4,5 @@
 
 jhjhjkhjkh
 
-<<<<<<< HEAD
 Hi
-=======
-hello
->>>>>>> origin/master
+
